@@ -20,5 +20,6 @@ It connects to your webcam, detects multiple faces simultaneously, and highlight
 
 bash
 git clone https://github.com/your-username/real-time-face-detection.git
+
 cd real-time-face-detection
 
