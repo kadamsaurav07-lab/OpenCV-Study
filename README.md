@@ -17,6 +17,7 @@ It connects to your webcam, detects multiple faces simultaneously, and highlight
    pip install opencv-python
 
 ##Clone this repository:
+
 bash
 git clone https://github.com/your-username/real-time-face-detection.git
 cd real-time-face-detection
